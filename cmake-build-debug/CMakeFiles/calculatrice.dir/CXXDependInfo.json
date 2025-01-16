@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/jer/jer/dev/perso/C++/calculatrice/cmake-build-debug",
+	"dir-cur-src" : "/home/jer/jer/dev/perso/C++/calculatrice",
+	"dir-top-bld" : "/home/jer/jer/dev/perso/C++/calculatrice/cmake-build-debug",
+	"dir-top-src" : "/home/jer/jer/dev/perso/C++/calculatrice",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/jer/jer/dev/perso/C++/calculatrice/cmake-build-debug/CMakeFiles/calculatrice.dir"
+}
