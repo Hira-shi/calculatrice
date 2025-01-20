@@ -1,0 +1,1 @@
+-isystem "C:/dev/cpp/Calculatrice/calculatrice/cmake-build-debug/_deps/googletest-src/googletest/include" -isystem "C:/dev/cpp/Calculatrice/calculatrice/cmake-build-debug/_deps/googletest-src/googletest"
